@@ -142,6 +142,8 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -153,7 +155,7 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhu-Z&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Prabhu-Z&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -164,8 +166,6 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
     alt="Top Languages"
   />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
