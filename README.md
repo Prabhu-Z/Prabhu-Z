@@ -36,11 +36,15 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT undergraduate focused on building a strong foundation in **Java backend development and problem solving**.
+I'm an IT undergraduate focused on building a strong foundation in
+**Java backend development and problem solving**.
 
-Currently, I'm developing my skills in **Spring and Spring Boot**, while strengthening my understanding of **Java, Object-Oriented Programming, Data Structures, Algorithms, SQL, and REST APIs**.
+Currently, I'm developing my skills in **Spring and Spring Boot**, while
+strengthening my understanding of **Java, Object-Oriented Programming,
+Data Structures, Algorithms, SQL, and REST APIs**.
 
-I enjoy turning concepts into practical projects and learning by building, debugging, and improving real applications.
+I enjoy turning concepts into practical projects and learning by building,
+debugging, and improving real applications.
 
 - 🔭 Currently working on **Java & Spring Boot projects**
 - 🌱 Learning **Spring Boot, REST APIs, JPA/Hibernate, and backend architecture**
@@ -129,7 +133,8 @@ I'm building projects to apply what I learn rather than relying only on tutorial
 
 ## 🧠 Problem Solving
 
-I regularly practice Data Structures and Algorithms to improve my problem-solving skills and prepare for technical interviews.
+I regularly practice Data Structures and Algorithms to improve my
+problem-solving skills and prepare for technical interviews.
 
 <p align="center">
   <a href="https://leetcode.com/prabhu_A_/">
@@ -139,8 +144,6 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
     />
   </a>
 </p>
-
----
 
 ---
 
@@ -167,20 +170,22 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
   />
 </p>
 
+---
+
 ## 🤝 Let's Connect
 
-I'm always interested in learning from other developers and collaborating on interesting projects.
+<p align="center">
+  <a href="https://github.com/Prabhu-Z">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
-<p>
-📧 <a href="mailto:prabhu.a0306@gmail.com">prabhu.a0306@gmail.com</a>
-</p>
+  <a href="https://leetcode.com/prabhu_A_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
 
-<p>
-💻 <a href="https://github.com/Prabhu-Z">GitHub</a>
-</p>
-
-<p>
-🧠 <a href="https://leetcode.com/prabhu_A_/">LeetCode</a>
+  <a href="mailto:prabhu.a0306@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
