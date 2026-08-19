@@ -23,44 +23,14 @@
 </p>
 
 <p align="center">
-  Building backend applications, solving problems, and continuously learning.
+  <b>Java Backend Developer | Spring Boot | DSA</b>
 </p>
-
-<br>
-<p align="center">
-  <img
-    src="./assets/banner.png"
-    width="100%"
-    alt="Prabhu A - Java Backend Developer"
-  />
-</p>
-
-<h2 align="center">
-  Java Backend Developer | Spring Boot | DSA
-</h2>
 
 <p align="center">
   Building backend applications, solving problems, and continuously learning.
 </p>
 
 <br>
-<h1 align="center">Hi, I'm Prabhu A 👋</h1>
-
-<p align="center">
-  <b>Java Backend Developer | Spring Boot Learner | DSA Enthusiast</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Prabhu-Z">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/prabhu_A_/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="mailto:prabhu.a0306@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ---
 
@@ -72,12 +42,12 @@ Currently, I'm developing my skills in **Spring and Spring Boot**, while strengt
 
 I enjoy turning concepts into practical projects and learning by building, debugging, and improving real applications.
 
-* 🔭 Currently working on **Java & Spring Boot projects**
-* 🌱 Learning **Spring Boot, REST APIs, JPA/Hibernate, and backend architecture**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 💻 Interested in **Java Backend Development**
-* 🤝 Open to collaborating on **Java, Spring Boot, and backend projects**
-* 🎯 Goal: Become a strong **Java Backend Developer**
+- 🔭 Currently working on **Java & Spring Boot projects**
+- 🌱 Learning **Spring Boot, REST APIs, JPA/Hibernate, and backend architecture**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 💻 Interested in **Java Backend Development**
+- 🤝 Open to collaborating on **Java, Spring Boot, and backend projects**
+- 🎯 Goal: Become a strong **Java Backend Developer**
 
 ---
 
@@ -95,7 +65,7 @@ I enjoy turning concepts into practical projects and learning by building, debug
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA Hibernate">
+<img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA Hibernate">
 </p>
 
 ### Database
@@ -126,14 +96,14 @@ I enjoy turning concepts into practical projects and learning by building, debug
 
 ## 📚 Currently Learning
 
-| Area           | Focus                                             |
-| -------------- | ------------------------------------------------- |
-| ☕ Java         | OOP, Collections, Exception Handling, Modern Java |
-| 🌱 Spring Boot | REST APIs, Dependency Injection, MVC              |
-| 🗄️ Database   | SQL, MySQL, JPA/Hibernate                         |
-| 🧠 DSA         | Arrays, Strings, Linked Lists, Trees, Algorithms  |
-| 🔐 Backend     | Authentication, Authorization, API Design         |
-| 🧪 Development | Testing, Debugging, Git & GitHub                  |
+| Area | Focus |
+|---|---|
+| ☕ Java | OOP, Collections, Exception Handling, Modern Java |
+| 🌱 Spring Boot | REST APIs, Dependency Injection, MVC |
+| 🗄️ Database | SQL, MySQL, JPA/Hibernate |
+| 🧠 DSA | Arrays, Strings, Linked Lists, Trees, Algorithms |
+| 🔐 Backend | Authentication, Authorization, API Design |
+| 🧪 Development | Testing, Debugging, Git & GitHub |
 
 ---
 
@@ -143,15 +113,15 @@ I'm building projects to apply what I learn rather than relying only on tutorial
 
 ### 🔹 Java Projects
 
-* **Student Management System** — Java, OOP, Collections
-* **Bank Management System** — Java, OOP, Exception Handling
-* **Expense Tracker** — Java, Collections, File Handling
+- **Student Management System** — Java, OOP, Collections
+- **Bank Management System** — Java, OOP, Exception Handling
+- **Expense Tracker** — Java, Collections, File Handling
 
 ### 🔹 Spring Boot Projects
 
-* **Student Management REST API** — Spring Boot, JPA, MySQL
-* **Employee Management API** — Spring Boot, REST, MySQL
-* **Task Management API** — Spring Boot, JPA, REST APIs
+- **Student Management REST API** — Spring Boot, JPA, MySQL
+- **Employee Management API** — Spring Boot, REST, MySQL
+- **Task Management API** — Spring Boot, JPA, REST APIs
 
 > More projects are being added as I progress through backend development.
 
@@ -163,7 +133,10 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 <p align="center">
   <a href="https://leetcode.com/prabhu_A_/">
-    <img src="https://leetcard.jacoblin.cool/prabhu_A_?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats">
+    <img
+      src="https://leetcard.jacoblin.cool/prabhu_A_?theme=dark&font=baloo2&ext=heatmap"
+      alt="LeetCode Stats"
+    />
   </a>
 </p>
 
@@ -172,15 +145,24 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhu-Z&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Prabhu-Z&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhu-Z&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhu-Z&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-Z&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-Z&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -190,11 +172,15 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 I'm always interested in learning from other developers and collaborating on interesting projects.
 
 <p>
-  📧 <a href="mailto:prabhu.a0306@gmail.com">prabhu.a0306@gmail.com</a>
-  <br><br>
-  💻 <a href="https://github.com/Prabhu-Z">GitHub</a>
-  <br><br>
-  🧠 <a href="https://leetcode.com/prabhu_A_/">LeetCode</a>
+📧 <a href="mailto:prabhu.a0306@gmail.com">prabhu.a0306@gmail.com</a>
+</p>
+
+<p>
+💻 <a href="https://github.com/Prabhu-Z">GitHub</a>
+</p>
+
+<p>
+🧠 <a href="https://leetcode.com/prabhu_A_/">LeetCode</a>
 </p>
 
 ---
