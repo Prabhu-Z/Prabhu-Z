@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/github-header-banner (1).png"
+    src="github-header-banner (1).png"
     width="100%"
     alt="Prabhu A - Java Backend Developer"
   />
