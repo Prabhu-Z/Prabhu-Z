@@ -1,3 +1,20 @@
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    width="100%"
+    alt="Prabhu A - Java Backend Developer"
+  />
+</p>
+
+<h2 align="center">
+  Java Backend Developer | Spring Boot | DSA
+</h2>
+
+<p align="center">
+  Building backend applications, solving problems, and continuously learning.
+</p>
+
+<br>
 <h1 align="center">Hi, I'm Prabhu A 👋</h1>
 
 <p align="center">
