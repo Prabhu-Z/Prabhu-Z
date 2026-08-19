@@ -33,8 +33,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-Z&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="">
 </p>
 
-<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
-<p><img src="https://github-profile-trophy.vercel.app/?username=Prabhu-Z&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt=""></p>
+<h2 id="-contribution-snake">🐍 Contribution Snake</h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Prabhu-Z/Prabhu-Z/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+</p>
 
 <h3 id="-random-dev-quote">✍️ Random Dev Quote</h3>
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""></p>
@@ -47,13 +49,13 @@
 
 <h1 id="-leetcode-stats">🧠 LeetCode Stats:</h1>
 <p>
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/prabhu_A_?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 <h1 id="-connect-with-me">🌐 Connect with Me:</h1>
 <p>
 📧 <a href="mailto:prabhu.a0306@gmail.com">prabhu.a0306@gmail.com</a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/prabhu_A_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 <!-- ✏️ Add LinkedIn / Portfolio links here once ready, e.g.:
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
