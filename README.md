@@ -1,7 +1,7 @@
 # About Me
 
 <h1 id="-about-me">💫 About Me:</h1>
-<p>🚀 Journeying Through: Currently diving deep into <b>Spring & Spring Boot</b>, backed by solid Java (OOP) fundamentals.<br>🧩 Parallel Quest: Sharpening my <b>Data Structures & Algorithms</b> daily — building problem-solving muscle alongside backend skills.<br>🌐 Team Ups: Open to collaboration on backend/Java projects. Let's build something real!<br>🔍 My Specialty: Turning backend concepts (APIs, databases, auth) into working projects, not just theory.<br>🌟 Did You Know?: I'm most productive when I've got a half-finished project nagging at me to be completed.</p>
+<p>🚀 Journeying Through: Currently diving deep into <b>Spring & Spring Boot</b>, backed by solid Java (OOP) fundamentals.<br>🧩 Parallel Quest: Sharpening my <b>Data Structures & Algorithms</b> daily — building problem-solving muscle alongside backend skills.<br>🌐 Team Ups: Open to collaboration on backend/Java projects. Let's build something real!<br>🔍 My Specialty: Turning backend concepts (APIs, databases, auth) into working projects, not just theory.<br>🌟 Did You Know?: I'm most productive when I've got a half-finished project nagging at me to be completed.<br>🎮 Real Talk: Just a gamer who pretends to love coding.</p>
 
 <h1 id="-tech-stack">💻 Tech Stack:</h1>
 <p>
