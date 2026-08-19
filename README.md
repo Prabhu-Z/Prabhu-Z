@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/banner.png"
+    src="./assets/banner1.png"
     width="100%"
     alt="Prabhu A - Java Backend Developer"
   />
