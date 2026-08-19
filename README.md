@@ -1,64 +1,158 @@
-# About Me
+<h1 align="center">Hi, I'm Prabhu A 👋</h1>
 
-<h1 id="-about-me">💫 About Me:</h1>
-<p>🚀 Journeying Through: Currently diving deep into <b>Spring & Spring Boot</b>, backed by solid Java (OOP) fundamentals.<br>🧩 Parallel Quest: Sharpening my <b>Data Structures & Algorithms</b> daily — building problem-solving muscle alongside backend skills.<br>🌐 Team Ups: Open to collaboration on backend/Java projects. Let's build something real!<br>🔍 My Specialty: Turning backend concepts (APIs, databases, auth) into working projects, not just theory.<br>🌟 Did You Know?: I'm most productive when I've got a half-finished project nagging at me to be completed.<br>🎮 Real Talk: Just a gamer who pretends to love coding.</p>
-
-<h1 id="-tech-stack">💻 Tech Stack:</h1>
-<p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-<h1 id="-current-focus">🧗 Current Focus:</h1>
-<pre>
-✅ Java (OOP concepts)
-✅ HTML, CSS
-✅ Git & GitHub
-✅ SQL
-🔄 Data Structures & Algorithms   — in progress
-🔄 Spring / Spring Boot           — in progress
-⏭️ Backend Projects (REST APIs, DB integration, auth)  — next up
-</pre>
-
-<h1 id="-github-stats">📊 GitHub Stats:</h1>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Prabhu-Z&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt=""><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhu-Z&theme=dark&hide_border=false" alt=""><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-Z&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="">
-</p>
-
-<h2 id="-contribution-snake">🐍 Contribution Snake</h2>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Prabhu-Z/Prabhu-Z/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+  <b>Java Backend Developer | Spring Boot Learner | DSA Enthusiast</b>
 </p>
 
-<h3 id="-random-dev-quote">✍️ Random Dev Quote</h3>
-<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""></p>
+<p align="center">
+  <a href="https://github.com/Prabhu-Z">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/prabhu_A_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="mailto:prabhu.a0306@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<hr>
+---
 
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Prabhu-Z&icon=2&color=4" alt=""></a></p>
+## 👨‍💻 About Me
 
-<hr>
+I'm an IT undergraduate focused on building a strong foundation in **Java backend development and problem solving**.
 
-<h1 id="-leetcode-stats">🧠 LeetCode Stats:</h1>
+Currently, I'm developing my skills in **Spring and Spring Boot**, while strengthening my understanding of **Java, Object-Oriented Programming, Data Structures, Algorithms, SQL, and REST APIs**.
+
+I enjoy turning concepts into practical projects and learning by building, debugging, and improving real applications.
+
+* 🔭 Currently working on **Java & Spring Boot projects**
+* 🌱 Learning **Spring Boot, REST APIs, JPA/Hibernate, and backend architecture**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 💻 Interested in **Java Backend Development**
+* 🤝 Open to collaborating on **Java, Spring Boot, and backend projects**
+* 🎯 Goal: Become a strong **Java Backend Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p>
-<img src="https://leetcard.jacoblin.cool/prabhu_A_?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-<h1 id="-connect-with-me">🌐 Connect with Me:</h1>
+### Backend
+
 <p>
-📧 <a href="mailto:prabhu.a0306@gmail.com">prabhu.a0306@gmail.com</a>
-<a href="https://leetcode.com/prabhu_A_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA Hibernate">
 </p>
-<!-- ✏️ Add LinkedIn / Portfolio links here once ready, e.g.:
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
--->
 
-<p><i>Last edited on: 19/08/2026</i></p>
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+---
+
+## 📚 Currently Learning
+
+| Area           | Focus                                             |
+| -------------- | ------------------------------------------------- |
+| ☕ Java         | OOP, Collections, Exception Handling, Modern Java |
+| 🌱 Spring Boot | REST APIs, Dependency Injection, MVC              |
+| 🗄️ Database   | SQL, MySQL, JPA/Hibernate                         |
+| 🧠 DSA         | Arrays, Strings, Linked Lists, Trees, Algorithms  |
+| 🔐 Backend     | Authentication, Authorization, API Design         |
+| 🧪 Development | Testing, Debugging, Git & GitHub                  |
+
+---
+
+## 🚀 Projects
+
+I'm building projects to apply what I learn rather than relying only on tutorials.
+
+### 🔹 Java Projects
+
+* **Student Management System** — Java, OOP, Collections
+* **Bank Management System** — Java, OOP, Exception Handling
+* **Expense Tracker** — Java, Collections, File Handling
+
+### 🔹 Spring Boot Projects
+
+* **Student Management REST API** — Spring Boot, JPA, MySQL
+* **Employee Management API** — Spring Boot, REST, MySQL
+* **Task Management API** — Spring Boot, JPA, REST APIs
+
+> More projects are being added as I progress through backend development.
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice Data Structures and Algorithms to improve my problem-solving skills and prepare for technical interviews.
+
+<p align="center">
+  <a href="https://leetcode.com/prabhu_A_/">
+    <img src="https://leetcard.jacoblin.cool/prabhu_A_?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhu-Z&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhu-Z&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhu-Z&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning from other developers and collaborating on interesting projects.
+
+<p>
+  📧 <a href="mailto:prabhu.a0306@gmail.com">prabhu.a0306@gmail.com</a>
+  <br><br>
+  💻 <a href="https://github.com/Prabhu-Z">GitHub</a>
+  <br><br>
+  🧠 <a href="https://leetcode.com/prabhu_A_/">LeetCode</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building consistently. Learning continuously. Improving every day.</i>
+</p>
