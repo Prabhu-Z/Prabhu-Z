@@ -45,13 +45,18 @@
 
 <hr>
 
+<h1 id="-leetcode-stats">🧠 LeetCode Stats:</h1>
+<p>
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats">
+</p>
+
 <h1 id="-connect-with-me">🌐 Connect with Me:</h1>
 <p>
 📧 <a href="mailto:prabhu.a0306@gmail.com">prabhu.a0306@gmail.com</a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-<!-- ✏️ Add LinkedIn / LeetCode / Portfolio links here once ready, e.g.:
+<!-- ✏️ Add LinkedIn / Portfolio links here once ready, e.g.:
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 -->
 
 <p><i>Last edited on: 19/08/2026</i></p>
