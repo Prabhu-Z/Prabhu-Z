@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.png" width="100%" alt="Prabhu A - Java Backend Developer">
+  <img src="github-header-banner (1)" width="100%" alt="Prabhu A - Java Backend Developer">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prabhu A</h1>
